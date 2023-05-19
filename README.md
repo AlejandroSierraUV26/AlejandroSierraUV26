@@ -2,7 +2,7 @@
 
 -☕My name is Alejandro Sierra, 
 
--I am a student at the Universidad del Valle, Colombia.
+-👨‍💻I am a student at the Universidad del Valle, Colombia.
 
 -🍕I am studying a Systems Engineering.
 
