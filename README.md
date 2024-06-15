@@ -30,7 +30,7 @@ Soy un estudiante de Ingeniería en Sistemas de la Universidad del Valle, actual
 
 ## 📈 Mis estadísticas de GitHub
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlejandroSierraUV26&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroSierraUV26&layout=compact&theme=radical)
 
 
 ## 💬 Contáctame
