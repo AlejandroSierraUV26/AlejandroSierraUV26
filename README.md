@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro Sierra Betancourt
 
-Soy un estudiante de Ingeniería en Sistemas de la Universidad del Valle, actualmente sexto semestre. Tengo experiencia en varios lenguajes de programación y herramientas, y también he tenido el placer de ser monitor académico, ayudando a estudiantes de primer semestre.
+Soy un estudiante de Ingeniería en Sistemas de la Universidad del Valle, actualmente septimo semestre. Tengo experiencia en varios lenguajes de programación y herramientas, y también he tenido el placer de ser monitor académico, ayudando a estudiantes de primer semestre.
 
 ## 🚀 Sobre mí
 
