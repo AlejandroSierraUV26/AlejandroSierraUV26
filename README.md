@@ -5,7 +5,7 @@ Soy un estudiante de Ingeniería en Sistemas de la Universidad del Valle, actual
 ## 🚀 Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Sistemas en la Universidad del Valle
-- 📚 Actualmente en el sexto semestre
+- 📚 Actualmente en el septimo semestre
 - 🎓 Monitor académico para estudiantes de primer semestre (2023-1, 2023-2, 2024-1)
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías
 
